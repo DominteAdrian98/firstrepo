@@ -1,0 +1,8 @@
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Domain\bin\Debug\netstandard2.0\Conference.Domain.deps.json
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Domain\bin\Debug\netstandard2.0\Conference.Domain.dll
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Domain\bin\Debug\netstandard2.0\Conference.Domain.pdb
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Domain\obj\Debug\netstandard2.0\Conference.Domain.AssemblyInfoInputs.cache
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Domain\obj\Debug\netstandard2.0\Conference.Domain.AssemblyInfo.cs
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Domain\obj\Debug\netstandard2.0\Conference.Domain.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Domain\obj\Debug\netstandard2.0\Conference.Domain.dll
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Domain\obj\Debug\netstandard2.0\Conference.Domain.pdb

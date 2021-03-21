@@ -1,0 +1,12 @@
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Data\bin\Debug\netstandard2.0\Conference.Data.deps.json
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Data\bin\Debug\netstandard2.0\Conference.Data.dll
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Data\bin\Debug\netstandard2.0\Conference.Data.pdb
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Data\bin\Debug\netstandard2.0\Conference.Domain.dll
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Data\bin\Debug\netstandard2.0\Conference.Domain.pdb
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Data\obj\Debug\netstandard2.0\Conference.Data.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Data\obj\Debug\netstandard2.0\Conference.Data.AssemblyInfoInputs.cache
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Data\obj\Debug\netstandard2.0\Conference.Data.AssemblyInfo.cs
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Data\obj\Debug\netstandard2.0\Conference.Data.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Data\obj\Debug\netstandard2.0\Conference.Data.csproj.CopyComplete
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Data\obj\Debug\netstandard2.0\Conference.Data.dll
+C:\Users\domin\Desktop\siit-conf-main\SIIT-Conference\Conference.Data\obj\Debug\netstandard2.0\Conference.Data.pdb

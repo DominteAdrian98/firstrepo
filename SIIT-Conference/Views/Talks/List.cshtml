@@ -1,0 +1,75 @@
+﻿@model IEnumerable<SIIT_Conference.Models.TalkDto>
+
+@{
+    ViewData["Title"] = "List";
+}
+<div class="container-p3">
+    <div class="row pt-4">
+        <div class="col-6 text-left">
+            <h1>Talks List</h1>
+            <br />
+            <a asp-action="Create" asp-controller="Talks" class="btn btn-info">Create New Item</a>
+        </div>
+    </div>
+</div>
+<br />
+<table class="table">
+    <thead>
+        <tr>
+            @*<th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Level)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Active)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FeedbackEnabled)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SpeakerId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @*<td>
+                    @Html.DisplayFor(modelItem => item.ID)
+                </td>*@
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Level)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Active)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FeedbackEnabled)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SpeakerId)
+                </td>
+                <td>
+                    <a asp-controller="Talks" asp-action="Edit" asp-route-ID="@item.ID" class="btn btn-primary">Update</a>
+                    <a asp-controller="Talks" asp-action="Delete" asp-route-ID="@item.ID" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
